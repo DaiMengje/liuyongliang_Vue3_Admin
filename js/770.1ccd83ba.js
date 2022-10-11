@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_admin"]=self["webpackChunkvue_admin"]||[]).push([[770],{770:function(n,u,e){e.r(u),e.d(u,{default:function(){return s}});var r=e(3396);function t(n,u,e,t,a,i){return(0,r.wg)(),(0,r.iD)("div",null," 打工人,又是加油的一天!!! ")}var a={setup(){return{}}},i=e(89);const c=(0,i.Z)(a,[["render",t]]);var s=c}}]);
+//# sourceMappingURL=770.1ccd83ba.js.map
